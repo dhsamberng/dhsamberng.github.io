@@ -9,3 +9,7 @@ My name is Amber Ng and i am from Dunman HIgh School, currently in Year 1</p>
 <p>
   Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
 <br>
+<p>Here are the things I love to do the most : </p> 
+<li> Watching videos and reading books<li>
+  </body>
+  </html>
